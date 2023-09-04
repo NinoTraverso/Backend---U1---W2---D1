@@ -1,0 +1,7 @@
+C:\Users\ninot\Documents\EPICODE\BackEnd\UNIT 1\Week 2\Day 1\Cinema\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\ninot\Documents\EPICODE\BackEnd\UNIT 1\Week 2\Day 1\Cinema\Cinema\bin\Debug\Cinema.exe
+C:\Users\ninot\Documents\EPICODE\BackEnd\UNIT 1\Week 2\Day 1\Cinema\Cinema\bin\Debug\Cinema.pdb
+C:\Users\ninot\Documents\EPICODE\BackEnd\UNIT 1\Week 2\Day 1\Cinema\Cinema\obj\Debug\Cinema.csproj.AssemblyReference.cache
+C:\Users\ninot\Documents\EPICODE\BackEnd\UNIT 1\Week 2\Day 1\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\ninot\Documents\EPICODE\BackEnd\UNIT 1\Week 2\Day 1\Cinema\Cinema\obj\Debug\Cinema.exe
+C:\Users\ninot\Documents\EPICODE\BackEnd\UNIT 1\Week 2\Day 1\Cinema\Cinema\obj\Debug\Cinema.pdb
